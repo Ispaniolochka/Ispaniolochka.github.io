@@ -76,10 +76,15 @@ body {
 	margin-top: 80px;
 }
 .about {
-	background-color: #510fad;
+	/*background-color: #510fad;*/
 	color: #b8adc8;
 	padding: 50px 10px;
-	min-height: 600px;
+	min-height: 800px;
+    background-image: url(../images/backround_violet.png);
+    background-repeat: no-repeat;
+}
+.about::before{
+
 }
 .subtitle {
 	text-align: center;
@@ -211,9 +216,11 @@ body {
 	margin-right: 50px;
 }
 .pets {
-	background-color: #510fad;
+	/*background-color: #510fad;*/
 	height: 500px;
 	margin: 40px;
+	background-image: url(../images/fon.png);
+    background-repeat: no-repeat;
 }
 .white2 {
 	color: #fff;
