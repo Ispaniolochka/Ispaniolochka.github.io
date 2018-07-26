@@ -50,9 +50,15 @@ body {
 	margin-right: 15px;
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
+	letter-spacing: 50;
+	line-height: 30px;
 }
 .slogan {
 	color: #737274;
+	font-family: roboto, regular, sans-serif;
+	font-size: 16px;
+	letter-spacing: 50;
+	line-height: 30px;
 }
 .promo {
 	float: right;
@@ -80,20 +86,19 @@ body {
 	color: #b8adc8;
 	padding: 50px 10px;
 	min-height: 800px;
-    background-image: url(../images/backround_violet.png);
-    background-repeat: no-repeat;
-}
-.about::before{
-
+	background-image: url(../images/backround_violet.png);
+	background-repeat: no-repeat;
 }
 .subtitle {
 	text-align: center;
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
 	font-size: 36px;
+	letter-spacing: 50;
+	line-height: 40px;
 }
 .white {
-	margin: 90px 0px 0px 0px;
+	margin: 150px 0px 0px 0px;
 	color: white;
 	font-size: 36px;
 }
@@ -101,11 +106,17 @@ body {
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
 	font-size: 24px;
+	letter-spacing: 50;
+	line-height: 30px;
 }
 .subtitle_p {
 	color: #b8adc8;
 	float: left;
 	padding: 0px 180px 0px 365px;
+	line-height: 30px;
+	font-family: roboto, regular, sans-serif;
+	font-size: 16px;
+	letter-spacing: 50;
 	line-height: 30px;
 }
 .dog_window_img {
@@ -120,12 +131,15 @@ body {
 .link_dogs {
 	text-decoration: none;
 	font-family: roboto, italic, sans-serif;
+	letter-spacing: 50;
 	line-height: 30px;
 }
 .video {
 	color: #ffec00;
 	text-decoration: none;
 	padding: 12px;
+	letter-spacing: 50;
+	line-height: 30px;
 }
 .video:hover {
 	filter: grayscale(70%);
@@ -166,6 +180,8 @@ body {
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
 	font-size: 16px;
+	letter-spacing: 50;
+	line-height: 30px;
 }
 .view {
 	padding: 10px 0 0 160px;
@@ -204,6 +220,8 @@ body {
 	font-family: roboto, sans-serif;
 	font-style: italic;
 	color: #737274;
+	letter-spacing: 50;
+	line-height: 30px;
 }
 .dog_and_woman_img {
 	width: 470px;
@@ -213,14 +231,19 @@ body {
 	text-decoration: none;
 }
 .text_link {
-	margin-right: 50px;
+	margin-right: 70px;
+	letter-spacing: 50;
+	line-height: 30px;
+	font-family: 'fira_sans', arial, sans-serif;
+	font-weight: 500;
+	font-size: 16px;
 }
 .pets {
 	/*background-color: #510fad;*/
 	height: 500px;
 	margin: 40px;
 	background-image: url(../images/fon.png);
-    background-repeat: no-repeat;
+	background-repeat: no-repeat;
 }
 .white2 {
 	color: #fff;
@@ -229,6 +252,9 @@ body {
 }
 .color_p {
 	color: #b8adc8;
+	font-family: roboto, regular, sans-serif;
+	font-size: 16px;
+	letter-spacing: 50;
 	line-height: 30px;
 }
 .socials {
@@ -269,8 +295,10 @@ body {
 }
 .p_article {
 	color: #202020;
+	font-family: roboto, regular, sans-serif;
+	font-size: 16px;
 	line-height: 30px;
-	letter-spacing: normal;
+	margin-bottom: 10px;
 }
 .reed:hover {
 	filter: grayscale(70%);
@@ -285,11 +313,16 @@ body {
 .reed {
 	color: #510fad;
 	text-decoration: none;
+	letter-spacing: 50;
+	line-height: 30px;
+	font-family: 'fira_sans', arial, sans-serif;
+	font-weight: 500;
+	font-size: 16px;
 }
 .dog_article_img {
 	width: 100%;
 	border-radius: 10px 10px 0 0;
-	margin: 0 0 10px 0;
+	margin: 0 0 5px 0;
 }
 .section_contacts {
 	margin-left: 70px;
@@ -297,9 +330,20 @@ body {
 .subtitle_contacts {
 	text-align: left;
 }
+.text_down {
+	font-family: roboto, regular, sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	letter-spacing: 50;
+}
 .contacts {
 	margin: 0;
 	color: #737274;
+	font-family: 'fira_sans', uppercase, sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+	letter-spacing: 50;
+	line-height: 30px;
 }
 .wrap {
 	display: inline-block;
@@ -312,12 +356,9 @@ body {
 	color: #202020;
 	text-decoration: none;
 }
-.dropdown {
+.footer_down {} .dropdown {
 	width: 860px;
 	border-top: 3px solid #737274;
-}
-.menu_icon {
-	width: 450px;
 }
 .menu_down {
 	color: #737274;
@@ -341,8 +382,6 @@ body {
 .socials_link {
 	margin-right: 5px;
 }
-
-
 
 
 
