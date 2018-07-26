@@ -15,15 +15,19 @@ body {
 .container_header {
 	background-image: url(../images/dog.png);
 	background-repeat: no-repeat;
-	height: 550px;
-	background-position: 0px -10px;
+    height: 500px;
+    margin-left: 36px;
+    margin-top: 0px;
+    background-position: 0px -10px;
 }
 .logo {
 	float: left;
 	width: 20%;
 }
 .logo_img {
-	margin-top: 20px;
+    margin-left: 24px;
+    margin-top: 5px;
+
 }
 .menu-header {
 	float: right;
