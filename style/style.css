@@ -82,7 +82,7 @@ body {
 .about {
 	background-color: #510fad;
 	color: #b8adc8;
-	min-height: 700px;
+	min-height: 750px;
 	position: relative;
 }
 .about:before {
@@ -93,7 +93,7 @@ body {
 	position: absolute;
 	left: 0;
 	top: -10;
-	background-image: url(../images/Wave1.png);
+	background-image: url(../images/container_header_wave_up.png);
 	background-repeat: no-repeat;
 }
 .about:after {
@@ -117,7 +117,7 @@ body {
 }
 .white {
 	margin: 200px 0px 0px 0px;
-	padding-top: 150px;
+	padding-top: 200px;
 	color: white;
 	font-size: 36px;
 }
@@ -152,6 +152,7 @@ body {
 	font-family: roboto, italic, sans-serif;
 	letter-spacing: 50;
 	line-height: 30px;
+	margin-left: 40px;
 }
 .video {
 	color: #ffec00;
@@ -176,7 +177,7 @@ body {
 	padding: 100px 30px;
 }
 .dog {
-	margin-top: 20px;
+	margin-top: 100px;
 	width: 940px;
 	margin-left: 30px;
 }
@@ -221,6 +222,7 @@ body {
 }
 .section_responses {
 	min-height: 600px;
+	margin-top: 80px;
 }
 .tatiana {
 	float: left;
@@ -272,6 +274,7 @@ body {
 	font-size: 0;
 	width: 1024px;
 	padding: 100px 70px;
+	margin-top: 80px;
 }
 .container_pets {
 	width: 46%;
@@ -279,11 +282,10 @@ body {
 	font-size: 16px;
 	vertical-align: top;
 }
-.white2 {
+.white_two {
 	color: #fff;
 	font-size: 36px;
 	text-align: left;
-	margin-top: 20px;
 }
 .color_p {
 	color: #b8adc8;
@@ -312,7 +314,7 @@ body {
 	background: white;
 	width: 200px;
 	display: inline-block;
-	margin-right: 10px;
+	margin-right: 20px;
 	height: 280px;
 	vertical-align: bottom;
 	text-align: right;
