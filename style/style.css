@@ -49,7 +49,7 @@ body {
 	margin-right: 15px;
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
-	/*letter-spacing: 50;*/
+	letter-spacing: 50;
 	line-height: 30px;
 }
 .phone {
@@ -113,7 +113,7 @@ body {
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
 	font-size: 36px;
-	/*letter-spacing: 50;*/
+	letter-spacing: 0.5px;
 	line-height: 40px;
 }
 .white {
@@ -126,7 +126,7 @@ body {
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
 	font-size: 24px;
-	/*letter-spacing: 50;*/
+	letter-spacing: 0.5px;
 	line-height: 30px;
 }
 .subtitle_p {
@@ -136,7 +136,7 @@ body {
 	line-height: 30px;
 	font-family: roboto, regular, sans-serif;
 	font-size: 16px;
-	/*letter-spacing: 50;*/
+	letter-spacing: 0.5px;
 	line-height: 30px;
 }
 .dog_window_img {
@@ -151,7 +151,7 @@ body {
 .link_dogs {
 	text-decoration: none;
 	font-family: roboto, italic, sans-serif;
-	letter-spacing: 50;
+	letter-spacing: 0.5px;
 	line-height: 30px;
 	margin-left: 40px;
 }
@@ -159,7 +159,7 @@ body {
 	color: #ffec00;
 	text-decoration: none;
 	padding: 12px;
-	/*letter-spacing: 50;*/
+	letter-spacing: 0.5px;
 	line-height: 30px;
 }
 .video:hover {
@@ -203,7 +203,7 @@ body {
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
 	font-size: 16px;
-	/*letter-spacing: 50;*/
+	letter-spacing: 0.5px;
 	line-height: 30px;
 }
 .view {
@@ -292,7 +292,7 @@ body {
 	color: #b8adc8;
 	font-family: roboto, regular, sans-serif;
 	font-size: 16px;
-	/*letter-spacing: 50;*/
+	letter-spacing: 0.5px;
 	line-height: 30px;
 	margin: 0 30px 30px 0;
 }
@@ -341,7 +341,7 @@ body {
 .reed {
 	color: #510fad;
 	text-decoration: none;
-	letter-spacing: 50;
+	letter-spacing: 0.5px;
 	line-height: 30px;
 	font-family: 'fira_sans', arial, sans-serif;
 	font-weight: 500;
@@ -368,7 +368,7 @@ body {
 	font-family: roboto, regular, sans-serif;
 	font-size: 16px;
 	line-height: 30px;
-	letter-spacing: 50;
+	letter-spacing: 0.5px;
 }
 .contacts {
 	margin: 0;
@@ -376,7 +376,7 @@ body {
 	font-family: 'fira_sans', uppercase, sans-serif;
 	font-weight: 500;
 	font-size: 14px;
-	letter-spacing: 50;
+	letter-spacing: 0.5px;
 	line-height: 30px;
 }
 .wrap {
@@ -390,7 +390,8 @@ body {
 	color: #202020;
 	text-decoration: none;
 }
-.footer_down {} .menu_icon {
+
+.menu_icon {
 	float: left;
 }
 .dropdown {
